@@ -3,7 +3,7 @@ I am  currently learning
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/keerthana-s47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthiyajamani@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/Keerthana-S47) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthiyajamani@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
